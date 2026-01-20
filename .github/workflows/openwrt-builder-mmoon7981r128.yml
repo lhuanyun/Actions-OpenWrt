@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder-7981r128
+name: OpenWrt mmoon7981r128
 
 on:
   repository_dispatch:
