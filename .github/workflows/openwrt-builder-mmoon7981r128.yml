@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/levinhuang2013/immortalwrt-mt798x
+  REPO_URL: https://github.com/lhuanyun/immortalwrt-mt798x
   REPO_BRANCH: 7981r128-v7.6.7.2
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: hanwckf/mmoon_7981r128.config
